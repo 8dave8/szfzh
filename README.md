@@ -18,4 +18,8 @@ Korrelációs mátrixok
 ![corrMatrix1](https://user-images.githubusercontent.com/43006387/166664788-6fedfaff-54a5-4bb1-abd0-5f0f6029a231.png)
 ![corrMatrix2](https://user-images.githubusercontent.com/43006387/166664856-2c4d422b-1ae1-4c00-8af2-72e9bfbfbd33.png)
 
+Ábrák a program működéséről
+![usecase](https://user-images.githubusercontent.com/43006387/166667377-f690787b-fa5c-45d2-a866-74595a9b59b1.PNG)
+
+![architecture](https://user-images.githubusercontent.com/43006387/166667403-7c3f6caa-71d4-4ae7-aa32-a3f39805834d.PNG)
 
