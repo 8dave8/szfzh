@@ -1,9 +1,9 @@
 A program futtatásához a MongoDB NoSql adatbázis szükséges
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
-A program a dist mappában található szfzhJson néven
-
+A program a dist/szfzhJson mappában található szfzhJson.exe néven
 ## MongoDB használata 
+
 New connection
 
 Ha megvan akkor csak simmán rákell nyomni a connect-ra és él is a lokális adatbázis
