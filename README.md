@@ -23,3 +23,10 @@ Korrelációs mátrixok
 
 ![architecture](https://user-images.githubusercontent.com/43006387/166667403-7c3f6caa-71d4-4ae7-aa32-a3f39805834d.PNG)
 
+## Program szerkeztése
+
+- kell egy valamilyen python conda környezet (miniconda/conda)
+- Jupyter notebook
+- matplotlib
+- pandas
+- pymongo
