@@ -1,6 +1,7 @@
 A program futtatásához a MongoDB NoSql adatbázis szükséges
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
+A program a dist mappában található szfzhJson néven
 
 ## MongoDB használata 
 New connection
