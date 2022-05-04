@@ -9,8 +9,8 @@ Ha megvan akkor csak simmán rákell nyomni a connect-ra és él is a lokális a
 ![image](https://user-images.githubusercontent.com/46134377/166658553-58a1d2bf-5f1a-477b-aa56-9c9f0d9dbe97.png)
 Ha grafikusan akkarunk DB és Collection-t létrehozni akkor Databases-re rákell katintani -> Crate Database(itt létre is tudjuk hozni egyből a collection-t)
 
-##Diagrammok
-
+## Diagrammok
+világos témán látszik rendesen
 ![UserRatingVSPrice](https://user-images.githubusercontent.com/43006387/166664957-154b0f14-4d03-435c-b673-16319229bb61.png)
 
 Korrelációs mátrixok
